@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
-
-/* Documentation
+/*
+ * Documentation
  * more
  * and more
  */
-
 int main(void)
 {
 	int num;
