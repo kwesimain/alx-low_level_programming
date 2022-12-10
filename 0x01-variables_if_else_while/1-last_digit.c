@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+/**
+ *main - assign a random number to the variable n each time it is executed.
+ * Return: returns 0
+ */
 int main(void)
 {
 	int n;
@@ -14,7 +17,7 @@ int main(void)
 	if (last == 0)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, last);
-													}
+	}
 	else
 	{
 		if (last > 5)
