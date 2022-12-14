@@ -3,8 +3,8 @@
  * _putchar - prints "_putchar"
  * Return: 0
  */
-void _putchar(void)
+int _putchar(void)
 {
-	printf("_putchar");
+	printf("_putchar\n");
 	return (0);
 }
