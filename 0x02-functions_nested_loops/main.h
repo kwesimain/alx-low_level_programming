@@ -4,6 +4,7 @@
  * Desc: header file
  */
 
+void _putchar(void);
 void print_alphabet(void);
 void jack_bauer(void);
 void print_alphabet_x10(void);
