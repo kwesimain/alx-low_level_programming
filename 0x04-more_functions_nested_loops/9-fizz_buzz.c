@@ -1,8 +1,8 @@
 #include <stdio.h>
- /**
-  *main - prints number, fizz, buzz or fizzBuzz
-  * Return:0
-  */
+/**
+ * main - main function prints fizz and others
+ * Return: 0
+ */
 int main(void)
 {
 	int num;
