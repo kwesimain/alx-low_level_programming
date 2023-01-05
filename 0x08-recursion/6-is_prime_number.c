@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * is_prime - recursively divide by higher divisor, skip even nums
